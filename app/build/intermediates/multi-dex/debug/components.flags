@@ -1,0 +1,30 @@
+-injars '/Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/transforms/CLASSES/FULL_PROJECT/jarMerging/debug/classes.jar'
+-outjars '/Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/multi-dex/debug/componentClasses.jar'
+
+-libraryjars /Users/smuggler/Documents/android-sdk/build-tools/23.0.1/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontwarn
+-printconfiguration '/Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/multi-dex/debug/components.flags'
+
+
+-keep class com.kru13.twittertest.MainActivity {
+    <init>();
+}
+
+-keep class cz.vacul.twittertest.DialogActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}

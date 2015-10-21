@@ -1,0 +1,83 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml:2:5-35
+		INJECTED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml:7:22-77
+application
+ADDED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml:9:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.0] /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.0] /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.0] /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.1.0] /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml:10:9-45
+	android:theme
+		ADDED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.kru13.twittertest.MainActivity
+ADDED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml:13:9-21:20
+	android:label
+		ADDED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml:14:13-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml:19:27-74
+activity#cz.vacul.twittertest.DialogActivity
+ADDED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml:22:9-23:58
+	android:theme
+		ADDED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml:22:19-49
+uses-sdk
+INJECTED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.0] /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.0] /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.0] /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.0] /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.1.0] /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/AndroidManifest.xml

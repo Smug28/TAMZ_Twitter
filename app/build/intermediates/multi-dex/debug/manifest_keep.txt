@@ -1,0 +1,8 @@
+-keep class com.kru13.twittertest.MainActivity { <init>(); }
+-keep class cz.vacul.twittertest.DialogActivity { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}

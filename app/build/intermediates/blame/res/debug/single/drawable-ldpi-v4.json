@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/plus.png",
+        "source": "/Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/generated/res/pngs/debug/drawable-ldpi/plus.png"
+    }
+]

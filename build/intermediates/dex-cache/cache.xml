@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="/Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/pre-dexed/debug/classes-1e9f24188e479f76b6cf7eda52a4ea5dab72a0ea.jar" />
+    </item>
+    <item
+        jar="/Users/smuggler/.gradle/caches/modules-2/files-2.1/com.koushikdutta.ion/ion/2.1.6/cd55ef3ba6d8b62838b658ba2507b019dffb3a08/ion-2.1.6.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cd55ef3ba6d8b62838b658ba2507b019dffb3a08">
+        <dex dex="/Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/pre-dexed/debug/ion-2.1.6-6e01ae7262db4a30ad3b47bf395ccbc00618792e.jar" />
+    </item>
+    <item
+        jar="/Users/smuggler/.gradle/caches/modules-2/files-2.1/org.twitter4j/twitter4j-core/4.0.4/1f3c896c7b2f20c51103078ccf0bc2ea97ac012a/twitter4j-core-4.0.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1f3c896c7b2f20c51103078ccf0bc2ea97ac012a">
+        <dex dex="/Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/pre-dexed/debug/twitter4j-core-4.0.4-0e581bb0f0ce65bde46b86ffe4af496212b5aa98.jar" />
+    </item>
+    <item
+        jar="/Users/smuggler/.gradle/caches/modules-2/files-2.1/com.koushikdutta.async/androidasync/2.1.6/e3d5f6ab2003e31f2cf5ea61b4731a21e9517935/androidasync-2.1.6.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e3d5f6ab2003e31f2cf5ea61b4731a21e9517935">
+        <dex dex="/Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/pre-dexed/debug/androidasync-2.1.6-03db19b404c0615514d95702072ab08f9dcbbed1.jar" />
+    </item>
+    <item
+        jar="/Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/pre-dexed/debug/classes-442b701abaf97f474d442bbf30d5beedf7432d84.jar" />
+    </item>
+    <item
+        jar="/Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/pre-dexed/debug/classes-7f322e3da122f6c978e4919ed4c0a3c6c040a942.jar" />
+    </item>
+    <item
+        jar="/Users/smuggler/Documents/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-91daaf49d059e121eadfa85bf4e2f0b89a4aed20.jar" />
+    </item>
+    <item
+        jar="/Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/pre-dexed/debug/classes-002dbf3dc42dfa85b6850d19f1abff8453288a6d.jar" />
+    </item>
+    <item
+        jar="/Users/smuggler/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/pre-dexed/debug/gson-2.3-4155270711e47606430c80f8ea30de5102d74f2c.jar" />
+    </item>
+    <item
+        jar="/Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-23b254d1b494c709309ceb16babc9b69042e9cc6.jar" />
+    </item>
+    <item
+        jar="/Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/smuggler/Documents/Android Studio Projects/TwitterTest/app/build/intermediates/pre-dexed/debug/classes-f8d2533b2b1ab8d7bf919ce8e35db98bf27d521e.jar" />
+    </item>
+
+</items>

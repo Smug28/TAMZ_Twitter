@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cz.vacul.twittertest.test" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="23" />
+
+    <instrumentation
+        android:name="com.android.test.runner.MultiDexTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for cz.vacul.twittertest"
+        android:targetPackage="cz.vacul.twittertest" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+</manifest>
