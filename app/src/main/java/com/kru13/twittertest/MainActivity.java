@@ -9,14 +9,12 @@ import android.os.Bundle;
 import android.provider.DocumentsContract;
 import android.provider.MediaStore;
 import android.support.v7.app.AppCompatActivity;
-import android.util.Log;
 import android.view.Menu;
 import android.view.View;
 import android.widget.ListView;
 import android.widget.Toast;
 
 import java.io.File;
-import java.net.URI;
 
 import cz.vacul.twittertest.DialogActivity;
 import cz.vacul.twittertest.R;
